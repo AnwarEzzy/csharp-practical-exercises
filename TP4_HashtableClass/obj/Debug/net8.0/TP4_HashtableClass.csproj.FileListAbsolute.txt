@@ -1,0 +1,14 @@
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\bin\Debug\net8.0\TP4_HashtableClass.exe
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\bin\Debug\net8.0\TP4_HashtableClass.deps.json
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\bin\Debug\net8.0\TP4_HashtableClass.runtimeconfig.json
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\bin\Debug\net8.0\TP4_HashtableClass.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\bin\Debug\net8.0\TP4_HashtableClass.pdb
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\obj\Debug\net8.0\TP4_HashtableClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\obj\Debug\net8.0\TP4_HashtableClass.AssemblyInfoInputs.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\obj\Debug\net8.0\TP4_HashtableClass.AssemblyInfo.cs
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\obj\Debug\net8.0\TP4_HashtableClass.csproj.CoreCompileInputs.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\obj\Debug\net8.0\TP4_HashtableClass.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\obj\Debug\net8.0\refint\TP4_HashtableClass.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\obj\Debug\net8.0\TP4_HashtableClass.pdb
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\obj\Debug\net8.0\TP4_HashtableClass.genruntimeconfig.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP4_HashtableClass\obj\Debug\net8.0\ref\TP4_HashtableClass.dll

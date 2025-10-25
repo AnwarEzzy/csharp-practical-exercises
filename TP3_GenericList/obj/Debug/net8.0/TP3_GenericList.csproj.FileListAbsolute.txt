@@ -1,0 +1,14 @@
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\bin\Debug\net8.0\TP3_GenericList.exe
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\bin\Debug\net8.0\TP3_GenericList.deps.json
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\bin\Debug\net8.0\TP3_GenericList.runtimeconfig.json
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\bin\Debug\net8.0\TP3_GenericList.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\bin\Debug\net8.0\TP3_GenericList.pdb
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\obj\Debug\net8.0\TP3_GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\obj\Debug\net8.0\TP3_GenericList.AssemblyInfoInputs.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\obj\Debug\net8.0\TP3_GenericList.AssemblyInfo.cs
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\obj\Debug\net8.0\TP3_GenericList.csproj.CoreCompileInputs.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\obj\Debug\net8.0\TP3_GenericList.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\obj\Debug\net8.0\refint\TP3_GenericList.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\obj\Debug\net8.0\TP3_GenericList.pdb
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\obj\Debug\net8.0\TP3_GenericList.genruntimeconfig.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP3_GenericList\obj\Debug\net8.0\ref\TP3_GenericList.dll

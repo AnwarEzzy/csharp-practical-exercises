@@ -1,0 +1,14 @@
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\bin\Debug\net8.0\TP2_ArrayList.exe
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\bin\Debug\net8.0\TP2_ArrayList.deps.json
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\bin\Debug\net8.0\TP2_ArrayList.runtimeconfig.json
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\bin\Debug\net8.0\TP2_ArrayList.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\bin\Debug\net8.0\TP2_ArrayList.pdb
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\obj\Debug\net8.0\TP2_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\obj\Debug\net8.0\TP2_ArrayList.AssemblyInfoInputs.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\obj\Debug\net8.0\TP2_ArrayList.AssemblyInfo.cs
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\obj\Debug\net8.0\TP2_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\obj\Debug\net8.0\TP2_ArrayList.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\obj\Debug\net8.0\refint\TP2_ArrayList.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\obj\Debug\net8.0\TP2_ArrayList.pdb
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\obj\Debug\net8.0\TP2_ArrayList.genruntimeconfig.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP2_ArrayList\obj\Debug\net8.0\ref\TP2_ArrayList.dll

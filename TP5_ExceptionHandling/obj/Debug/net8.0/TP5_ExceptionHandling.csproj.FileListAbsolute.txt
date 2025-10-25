@@ -1,0 +1,14 @@
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\bin\Debug\net8.0\TP5_ExceptionHandling.exe
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\bin\Debug\net8.0\TP5_ExceptionHandling.deps.json
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\bin\Debug\net8.0\TP5_ExceptionHandling.runtimeconfig.json
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\bin\Debug\net8.0\TP5_ExceptionHandling.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\bin\Debug\net8.0\TP5_ExceptionHandling.pdb
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\obj\Debug\net8.0\TP5_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\obj\Debug\net8.0\TP5_ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\obj\Debug\net8.0\TP5_ExceptionHandling.AssemblyInfo.cs
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\obj\Debug\net8.0\TP5_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\obj\Debug\net8.0\TP5_ExceptionHandling.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\obj\Debug\net8.0\refint\TP5_ExceptionHandling.dll
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\obj\Debug\net8.0\TP5_ExceptionHandling.pdb
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\obj\Debug\net8.0\TP5_ExceptionHandling.genruntimeconfig.cache
+C:\Users\Anwar\Desktop\Education\DotNet\C#\TP5_ExceptionHandling\obj\Debug\net8.0\ref\TP5_ExceptionHandling.dll
