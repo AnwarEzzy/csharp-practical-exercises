@@ -1,19 +1,12 @@
-# Ignore build results
-bin/
-obj/
+# Visual Studio
 .vs/
+
+# Build results
+**/bin/
+**/obj/
+
+# User-specific files
 *.user
 *.suo
-
-# Ignore temporary files
-*.tmp
 *.log
-
-# Ignore compiled binaries
-*.exe
-*.dll
-*.pdb
-
-# Ignore backup and system files
 *.DS_Store
-Thumbs.db
